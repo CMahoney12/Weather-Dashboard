@@ -37,6 +37,6 @@ chelsiesindar@gmail.com
 ![Screen Shot 2022-01-30 at 6 05 52 PM](https://user-images.githubusercontent.com/93498408/151726156-acdb79b6-ec28-4c15-b267-d61881a9a18d.png)  
 ![Screen Shot 2022-01-30 at 6 06 39 PM](https://user-images.githubusercontent.com/93498408/151726164-a553366d-e020-4530-bcc6-dde66b963769.png)  
 ![Screen Shot 2022-01-30 at 6 07 26 PM](https://user-images.githubusercontent.com/93498408/151726170-29357080-2b09-4378-b61e-41df9515bfee.png)  
-![Screen Shot 2022-01-30 at 6 07 55 PM](https://user-images.githubusercontent.com/93498408/151726179-f7fceb2d-9e72-48ce-9c61-aa57d525d85a.png). 
+![Screen Shot 2022-01-30 at 6 07 55 PM](https://user-images.githubusercontent.com/93498408/151726179-f7fceb2d-9e72-48ce-9c61-aa57d525d85a.png) 
 
 
