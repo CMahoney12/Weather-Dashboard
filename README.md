@@ -31,7 +31,5 @@ chelsiesindar@gmail.com
 * OpenWeather One CAll API (https://openweathermap.org/api/one-call-api)  
 
 
-## Screenshots
-<img width="1348" alt="Screen Shot 2022-01-29 at 7 26 24 PM" src="https://user-images.githubusercontent.com/93498408/151684428-dfcf733e-64aa-4870-898d-f259d9ff2e05.png">  
+## Screenshots  
 
-<img width="697" alt="Screen Shot 2022-01-29 at 7 28 10 PM" src="https://user-images.githubusercontent.com/93498408/151684431-1e1abed8-e228-4682-ad8d-5a9702e5df00.png">
